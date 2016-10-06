@@ -1,0 +1,110 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        jar="C:\Users\User\.gradle\caches\modules-2\files-2.1\org.codehaus.jackson\jackson-core-asl\1.9.13\3c304d70f42f832e0a86d45bd437f692129299a4\jackson-core-asl-1.9.13.jar"
+        jumboMode="true"
+        revision="24.0.0"
+        sha1="3c304d70f42f832e0a86d45bd437f692129299a4">
+        <dex dex="D:\work\atm\app\build\intermediates\transforms\dex\debug\folders\1000\10\jackson-core-asl-1.9.13_b4f983fb08dd3669ec71d873c1e0b4d4a1fa05d4\classes.dex" />
+    </item>
+    <item
+        jar="C:\Users\User\AppData\Local\Android\sdk\extras\android\m2repository\com\android\support\support-annotations\23.3.0\support-annotations-23.3.0.jar"
+        jumboMode="true"
+        revision="24.0.0"
+        sha1="db7791d75a07fef9844d06236c1c59ba7bf6997c">
+        <dex dex="D:\work\atm\app\build\intermediates\transforms\dex\debug\folders\1000\10\support-annotations-23.3.0_dbe8237707094f632f7ae137baf11ca40e4db85d\classes.dex" />
+    </item>
+    <item
+        jar="C:\Users\User\.gradle\caches\modules-2\files-2.1\com.squareup.okio\okio\1.6.0\98476622f10715998eacf9240d6b479f12c66143\okio-1.6.0.jar"
+        jumboMode="true"
+        revision="24.0.0"
+        sha1="98476622f10715998eacf9240d6b479f12c66143">
+        <dex dex="D:\work\atm\app\build\intermediates\transforms\dex\debug\folders\1000\10\okio-1.6.0_c6c36c9266a53bff725e5087f6a3090b1d0ab593\classes.dex" />
+    </item>
+    <item
+        jar="D:\work\atm\app\build\intermediates\exploded-aar\com.android.support\recyclerview-v7\23.3.0\jars\classes.jar"
+        jumboMode="true"
+        revision="24.0.0"
+        sha1="debf30ce0a7560396b6235edef77e447006454c2">
+        <dex dex="D:\work\atm\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.android.support-recyclerview-v7-23.3.0_7803f10e29b4a7afd37a788a30959c9d4115e9ea\classes.dex" />
+    </item>
+    <item
+        jar="D:\work\atm\app\build\intermediates\exploded-aar\com.android.support\appcompat-v7\23.3.0\jars\classes.jar"
+        jumboMode="true"
+        revision="24.0.0"
+        sha1="1b8e03daaa43fb0a4cd57e378167c2fd70454c1e">
+        <dex dex="D:\work\atm\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.android.support-appcompat-v7-23.3.0_3b9a923515fcbc337caf19da860ec11d000af3ec\classes.dex" />
+    </item>
+    <item
+        jar="C:\Users\User\.gradle\caches\modules-2\files-2.1\com.google.code.gson\gson\2.6.2\f1bc476cc167b18e66c297df599b2377131a8947\gson-2.6.2.jar"
+        jumboMode="true"
+        revision="24.0.0"
+        sha1="f1bc476cc167b18e66c297df599b2377131a8947">
+        <dex dex="D:\work\atm\app\build\intermediates\transforms\dex\debug\folders\1000\10\gson-2.6.2_28789111e52a6f7eb0e307c4a36a7bf33f80700b\classes.dex" />
+    </item>
+    <item
+        jar="D:\work\atm\app\build\intermediates\exploded-aar\com.android.support\animated-vector-drawable\23.3.0\jars\classes.jar"
+        jumboMode="true"
+        revision="24.0.0"
+        sha1="23be6993826b8fd88bbc8d14928bb3b8960d3d4e">
+        <dex dex="D:\work\atm\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.android.support-animated-vector-drawable-23.3.0_0c9ebfd0c11df06438038d8ff1a6ac9fc1d3b51b\classes.dex" />
+    </item>
+    <item
+        jar="C:\Users\User\.gradle\caches\modules-2\files-2.1\com.squareup.okhttp3\okhttp\3.2.0\f7873a2ebde246a45c2a8d6f3247108b4c88a879\okhttp-3.2.0.jar"
+        jumboMode="true"
+        revision="24.0.0"
+        sha1="f7873a2ebde246a45c2a8d6f3247108b4c88a879">
+        <dex dex="D:\work\atm\app\build\intermediates\transforms\dex\debug\folders\1000\10\okhttp-3.2.0_f6e6642ed4c0f01cb7be5c8477533ef8d026302f\classes.dex" />
+    </item>
+    <item
+        jar="C:\Users\User\.gradle\caches\modules-2\files-2.1\org.codehaus.jackson\jackson-mapper-asl\1.9.13\1ee2f2bed0e5dd29d1cb155a166e6f8d50bbddb7\jackson-mapper-asl-1.9.13.jar"
+        jumboMode="true"
+        revision="24.0.0"
+        sha1="1ee2f2bed0e5dd29d1cb155a166e6f8d50bbddb7">
+        <dex dex="D:\work\atm\app\build\intermediates\transforms\dex\debug\folders\1000\10\jackson-mapper-asl-1.9.13_bab90324048ce2f90b77bb12e482efb4a9e56b8f\classes.dex" />
+    </item>
+    <item
+        jar="D:\work\atm\app\build\intermediates\incremental-runtime-classes\debug\instant-run.jar"
+        jumboMode="true"
+        revision="24.0.0"
+        sha1="fc87fd059ba2aca258e97bef02ae48ced98efac2">
+        <dex dex="D:\work\atm\app\build\intermediates\transforms\dex\debug\folders\1000\10\instant-run_8a017491fe2b0afae323a8c849ce33fceffdcb6a\classes.dex" />
+    </item>
+    <item
+        jar="D:\work\atm\app\build\intermediates\exploded-aar\com.android.support\support-vector-drawable\23.3.0\jars\classes.jar"
+        jumboMode="true"
+        revision="24.0.0"
+        sha1="a0b5d60246cd9d4f3f2443611b3b4c25265840b5">
+        <dex dex="D:\work\atm\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.android.support-support-vector-drawable-23.3.0_620b47009e7fc99059958748668d1561cb27b181\classes.dex" />
+    </item>
+    <item
+        jar="D:\work\atm\app\build\intermediates\exploded-aar\com.android.support\design\23.3.0\jars\classes.jar"
+        jumboMode="true"
+        revision="24.0.0"
+        sha1="f0001e71cea6ae432a00021c6f727f5ef0f3d27e">
+        <dex dex="D:\work\atm\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.android.support-design-23.3.0_0bcb084c39b84064b70a14c396c51341a66469d1\classes.dex" />
+    </item>
+    <item
+        jar="D:\work\atm\app\build\intermediates\exploded-aar\com.android.support\support-v4\23.3.0\jars\libs\internal_impl-23.3.0.jar"
+        jumboMode="true"
+        revision="24.0.0"
+        sha1="4da5a4d697d32497c6f85567a5112e62fdfd0676">
+        <dex dex="D:\work\atm\app\build\intermediates\transforms\dex\debug\folders\1000\10\internal_impl-23.3.0_0fabcadcd8a5bc1279f0e060cc506562b0534eea\classes.dex" />
+    </item>
+    <item
+        jar="D:\work\atm\app\build\intermediates\exploded-aar\com.android.support\support-v4\23.3.0\jars\classes.jar"
+        jumboMode="true"
+        revision="24.0.0"
+        sha1="8a034dd16c0dfd75fe86c52c2cd581592acc684a">
+        <dex dex="D:\work\atm\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.android.support-support-v4-23.3.0_59005d718bebeb904bff46847a64d85fb5e7637f\classes.dex" />
+    </item>
+    <item
+        jar="D:\work\atm\app\build\intermediates\incremental-classes\debug\instant-run-bootstrap.jar"
+        jumboMode="true"
+        revision="24.0.0"
+        sha1="89e2e2d52d03c40937f7e0d529e853e2eb73c474">
+        <dex dex="D:\work\atm\app\build\intermediates\transforms\dex\debug\folders\1000\10\instant-run-bootstrap_505af0a58eab93b90fbea98229ef16aa16f4dfe7\classes.dex" />
+    </item>
+
+</items>
